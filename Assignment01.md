@@ -13,7 +13,7 @@ For Wednesday, August 26:
       Is the equation _autonomous_? Is the equation an _ordinary_ differential
       equation, or a _partial_ differential equation?
 
- Be prepared to share your example with the class on Wednesday.
+   Be prepared to share your example with the class on Wednesday.
 
 2. Find some information on **Euler's Method** and read up on it. This is the
     simplest numerical scheme for finding approximate solutions to a differential
