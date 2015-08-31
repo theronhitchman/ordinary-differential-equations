@@ -46,7 +46,12 @@ euler_method(x^2+y^2, inits=[0,1/2], step_size=0.01, num_steps=200)
 ︠622a7ada-98d9-4523-a8d6-f0ae947cdd55s︠
 euler_method(x^2+y^2, inits=[0,1/2], step_size=0.005, num_steps=400)
 ︡471826dd-900b-4402-8825-9c50d9433b78︡{"stdout":"(1.99999999999998, +infinity)\n"}︡
-︠cff7a106-0efc-4af2-a1fc-4aa4dbb9b859︠
+︠cff7a106-0efc-4af2-a1fc-4aa4dbb9b859s︠
+
+
+plot_slope_field(x^2+y^2, (x,0,3),(y,0,5))
+︡51fa474a-14c9-4f73-b84b-d24d988be9b3︡{"once":false,"file":{"show":true,"uuid":"384378d1-896b-457b-9ecc-c29b507cbf8d","filename":"/projects/99a225b5-ae43-48ba-b7cd-db937520c08b/.sage/temp/compute4-us/30821/tmp_HWrlbJ.svg"}}︡{"html":"<div align='center'></div>"}︡
+︠c871ada4-9956-437b-bb2b-80e12915885b︠
 
 
 
