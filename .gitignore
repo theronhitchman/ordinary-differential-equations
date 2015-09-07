@@ -1,3 +1,9 @@
 # SMC files
 *.sage-chat
 *.sage-history
+
+# LaTeX stuff
+*.aux
+*.out
+*.log
+*.gz
