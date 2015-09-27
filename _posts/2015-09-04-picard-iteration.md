@@ -15,13 +15,15 @@ This is another second order, quasi-linear, non-autonomous, ordinary differentia
 equation.
 
 Lucas shared the shallow water equations.
+
 $$
 \left\{\begin{array}{ccccccc}
-\dfrac{\partial h}{\partial t} & + & \dfrac{\partial (uh)}{\partial x} & + & \dfrac{\partial (vh)} & = & 0 \\
-\dfrac{\partial (uh)}{\partial t} & + & \dfrac{\partial (u^2h+gh^2/2)}{\partial x} & + & \dfrac{\partial (uvh)} & = & 0 \\
-\dfrac{\partial (vh)}{\partial t} & + & \dfrac{\partial (uvh)}{\partial x} & + & \dfrac{\partial (v^2h+gh^2/2)} & = & 0
+\dfrac{\partial h}{\partial t} & + & \dfrac{\partial (uh)}{\partial x} & + & \dfrac{\partial (vh)}{\partial y} & = & 0 \\
+\dfrac{\partial (uh)}{\partial t} & + & \dfrac{\partial (u^2h+gh^2/2)}{\partial x} & + & \dfrac{\partial (uvh)}{\partial y} & = & 0 \\
+\dfrac{\partial (vh)}{\partial t} & + & \dfrac{\partial (uvh)}{\partial x} & + & \dfrac{\partial (v^2h+gh^2/2)}{\partial y} & = & 0
 \end{array}\right.
 $$
+
 This is a system of first order, non-linear, partial differential equations.
 Studying this is outside the scope of our class, but it would be handled in the
 course on PDE's next term.
