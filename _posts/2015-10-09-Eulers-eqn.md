@@ -16,7 +16,7 @@ rather mild singularities. (The regular singular points.) To motivate the basic
 idea, we looked at Euler's equation
 
 \\[
-y'' + \dfrac{p}{x} y' + \dfrac{q}{x^2} = 0
+y'' + \dfrac{p}{x} y' + \dfrac{q}{x^2} y = 0
 \\]
 
 where \\(p, q\\) are constants. As is typical with Euler, the solution method is
@@ -25,12 +25,9 @@ to use a clever change of variables: \\( z = \log x\\).
 #### Homework for Monday, 12 October
 
 1. Check that the constant coefficient second order homogeneous linear equation
-
 \\[ y'' + a y' + b y = 0\\]
-
 has solutions \\( y = e^{m_1 x} \\) and \\( y = e^{m_2 x} \\) where \\(m_1 \neq m_2 \\)
 are the roots of the associated quadratic \\( m^2 + A m + B = 0\\).
-
 In the case that the quadratic has a double root \\(m\\), check that the solutions are
 \\( y = e^{m x} \\) and \\( y = x e^{m x}\\).
 
