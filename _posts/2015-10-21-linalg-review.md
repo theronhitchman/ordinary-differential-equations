@@ -3,8 +3,10 @@ layout: post
 title: Linear Algebra Stuff
 ---
 
-We did two things today. First, we argued for why matrix exponentiation has these
-two important properties:
+We did two things today. First, we argued for why matrix exponentiation has
+two important properties. These are the properties that will allow us see that
+the matrix exponential solves our differential equations problems, and also to
+do computations in more challenging settings.
 
   1. \\(\dfrac{d}{dt}e^{tA} = Ae^{tA} \\)
   2. \\( e^{A+B} = e^Ae^B \\) if the two matrices \\(A\\) and \\(B\\) commute.
@@ -26,4 +28,4 @@ Please find the eigenvalues and eigenvectors of these matrices:
 2. \\( B = \begin{pmatrix} 5 & 1 & 0 \\\\ 0 & 5 & 1 \\\\ 0 & 0 & 5 \end{pmatrix} \\)
 3. \\( C = \begin{pmatrix} 5 & 1 & 0 \\\\ 0 & 5 & 0 \\\\ 0 & 0 & 5 \end{pmatrix} \\)
 4. \\( D = \begin{pmatrix} \sqrt(2)/2 & \sqrt(2)/2 \\\\ -\sqrt(2)/2 & \sqrt(2)/2 \end{pmatrix} \\)
-5. \\( E = \begin{pmatrix} 2 & 1 \\\\1 & 1 \end{pmarix} \\)
+5. \\( E = \begin{pmatrix} 2 & 1 \\\\1 & 1 \end{pmatrix} \\)
