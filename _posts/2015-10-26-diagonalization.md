@@ -18,3 +18,10 @@ is \\(Q^{-1}A Q = \begin{pmatrix}\lambda_1 & 0 \\\\ 0 & \lambda_2 \end{pmatrix} 
 
 In general, this is the kind of thing we **like**. If we can diagonalize a matrix
 like this, then solving the associated ODEs will be much easier.
+
+#### Homework for 10/28
+
+Design a \\(3\times 3\\) matrix which has distinct eigenvalues and an orthonormal
+basis of eigenvectors. You'll have to reverse engineer what we did in class today!
+Bring your matrix to class on Wednesday so we can swap and make sure
+we are comfortable.
