@@ -20,6 +20,5 @@ A = \begin{pmatrix} 1 & 2 \\\\ 2 & 4 \end{pmatrix}
 3. Figure out as much as you can about the eigenvalues and eigenvectors of this
 matrix:
 \\[
-B = \begin{pmatrix} 2 & -1 & 0 & 1 \\\\ 0 & 3 & -1 & 0 \\\\
-0 & 1 & 1 & 0 \end{pmatrix}
+B = \begin{pmatrix} 2 & -1 & 0 & 1 \\\\ 0 & 3 & -1 & 0 \\\\ 0 & 1 & 1 & 0 \end{pmatrix}
 \\]
