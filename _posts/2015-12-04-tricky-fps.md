@@ -23,4 +23,4 @@ y' & = & x  & + & y(x^2+y^2)
 You should find that at some of the fixed points the linearization is of a
 degenerate type. Figure out what happens near those points anyway.
 (Perhaps look at higher order terms to understand the point, perhaps do
-  numerial work and plot lots of solutions.)
+  numerical work and plot lots of solutions.)
