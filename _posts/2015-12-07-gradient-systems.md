@@ -10,7 +10,7 @@ as a "gradient system" to show that cycles don't exist.
 
 1. Let's characterize gradient systems. We will use the generic system
 \\[
-(\star) \qquad \left\{ \begin{array}{ccc} x' & = & f(x,y) \\\\ y' & = & g(x,y) \end{array}\right.
+ \left\{ \begin{array}{ccc} x' & = & f(x,y) \\\\ y' & = & g(x,y) \end{array}\right.
 \\]
 
   * Suppose that \\(\star\\) is a gradient system. Show that
