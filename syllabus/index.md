@@ -3,7 +3,9 @@ layout: default
 title: Ordinary Differential Equations
 ---
 
-#### Math 3425, Fall 2015
+#### Math 3425, Fall 2016
+
+** All of this is out of date. I will send a message when it is fixed. **
 
 ### Course Description
 
@@ -12,9 +14,9 @@ Elementary theory and applications of first order differential equations; introd
 ### Basic Details:
 
 - **Instructor:** Theron J Hitchman
-- **Course Meetings:** MWF 9-10am, WRT 105
-- **Texts:** none
-- **Office Hours:** Weekdays, 2-3pm, Wright Hall 327
+- **Course Meetings:** MWF 11am-noon, WRT 10
+- **Texts:**
+- **Office Hours:**
 - **web page url:** theronhitchman.github.io/ordinary-differential-equations
 
 ### Learning Objectives
