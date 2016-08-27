@@ -8,7 +8,7 @@ most of the modeling steps I want to become familiar to you when dealing with a
 situation where some sort of _change_ is occurring.
 
   * Consider the assumptions
-  * make a model of _the way that change is happening
+  * make a model of _the way that change is happening_
   * explore the model numerically
   * explore the model qualitatively
   * check your results against experimental data
