@@ -30,7 +30,7 @@ hiding in my office. Come look if you want.
   * Colin brought equations modeling the pressure and mass of a neutron star.
   This is a coupled linear system of first order ordinary differential equations.
 
-\\[ \left\{ \begin{array}{rcl} \dfrac{dm}{dr} & = & \dfrac{4\pi r^2 \rho(r)}{c^2} \\\\ \dfrac{dP}{dr} & = & -\dfrac{Gm\rho(r)}{c^2 r^2} \end{array} \right. \\]
+\\[ \left\\{ \begin{array}{rcl} \dfrac{dm}{dr} & = & \dfrac{4\pi r^2 \rho(r)}{c^2} \\\\ \dfrac{dP}{dr} & = & -\dfrac{Gm\rho(r)}{c^2 r^2} \end{array} \right. \\]
 
   * Byron brought Hooke's law for an ideal spring under small displacement. This is a
   second order linear ordinary differential equation.
@@ -56,7 +56,7 @@ hiding in my office. Come look if you want.
   * Treasure brought the "zeroth order rate law" from chemistry, which helps model
   the loss of a particular reactant as time goes on.
 
-\\  - \dfrac{d[A]}{dt} = K \\]
+\\[  - \dfrac{d[A]}{dt} = K \\]
 
 Talking about chemistry and differential equations reminded me that the Belousov-Zhabotinsky
 reaction is a real thing and way cool. [Check it out.](https://www.youtube.com/watch?v=IBa4kgXI4Cg)
