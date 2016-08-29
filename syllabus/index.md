@@ -5,7 +5,6 @@ title: Ordinary Differential Equations
 
 #### Math 3425, Fall 2016
 
-** All of this is out of date. I will send a message when it is fixed. **
 
 ### Course Description
 
@@ -23,19 +22,34 @@ Elementary theory and applications of first order differential equations; introd
 
 Students will learn to
 
-1. use numerical methods to approximation solutions to differential equations.
+1. model situations involving change using differential equations.
 
 2. use a variety of standard techniques to solve equations analytically, including the theory of linear systems of equations with constant coefficients.
 
-3. use geometric models for thinking of several different kinds.
+3. use geometric models of several different kinds to do qualitative analysis.
 
-4. communicate clearly about mathematics using precision and concision.
+4. use numerical methods to approximation solutions to differential equations.
 
-5. Ask reasonable questions about where to direct further learning.
+5. communicate clearly about mathematics using precision and concision.
+
 
 ### Assessment:
 
-Course grades will be based on regular classroom participation, two midterm examinations and a final project and paper.
+Course grades will be based on six assessments: three exams (2 midterm and 1 final)
+and three projects. Each of these will involve multiple learning objectives.
+
+Assessment items will be well-described in advance, including specifications for
+constitutes acceptable work. Work that does not meet standards will be given one
+one chance for revision in a time frame negotiated with the instructor.
+
+### Dates to Watch:
+
+* Fourth Week of Class: Project 1
+* Fifth Week of Class: Exam 1
+* Ninth Week of Class: Project 2
+* Tenth Week of Class: Project 3
+* Final Exam Week: Final Exam and Final Project
+
 
 ### Student Academic Accommodations
 
