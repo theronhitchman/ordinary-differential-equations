@@ -47,7 +47,7 @@ one chance for revision in a time frame negotiated with the instructor.
 * Fourth Week of Class: Project 1
 * Fifth Week of Class: Exam 1
 * Ninth Week of Class: Project 2
-* Tenth Week of Class: Project 3
+* Tenth Week of Class: Exam 2
 * Final Exam Week: Final Exam and Final Project
 
 
