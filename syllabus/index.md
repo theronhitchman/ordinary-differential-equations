@@ -14,8 +14,9 @@ Elementary theory and applications of first order differential equations; introd
 
 - **Instructor:** Theron J Hitchman
 - **Course Meetings:** MWF 11am-noon, WRT 10
-- **Texts:**
-- **Office Hours:**
+- **Texts:** none required, _see below_
+- **Office Hours:** please make an appointment during M-F 3-5pm using
+[theronhitchman.youcanbook.me]()
 - **web page url:** theronhitchman.github.io/ordinary-differential-equations
 
 ### Learning Objectives
