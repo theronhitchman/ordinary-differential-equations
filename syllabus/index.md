@@ -16,7 +16,7 @@ Elementary theory and applications of first order differential equations; introd
 - **Course Meetings:** MWF 11am-noon, WRT 10
 - **Texts:** none required, _see below_
 - **Office Hours:** please make an appointment during M-F 3-5pm using
-[theronhitchman.youcanbook.me]()
+[theronhitchman.youcanbook.me](theronhitchman.youcanbook.me)
 - **web page url:** theronhitchman.github.io/ordinary-differential-equations
 
 ### Learning Objectives
@@ -59,8 +59,8 @@ seem worth sharing.
 
 Online, Free Texts:
 
-  * An in-progress, free, online book: [http://faculty.sfasu.edu/judsontw/ode/html/index.html]()
-  * Another free online book, available as a PDF from [http://aimath.org/textbooks/approved-textbooks/trench-de/]()
+  * An in-progress, free, online book: [http://faculty.sfasu.edu/judsontw/ode/html/index.html](http://faculty.sfasu.edu/judsontw/ode/html/index.html)
+  * Another free online book, available as a PDF from [http://aimath.org/textbooks/approved-textbooks/trench-de/](http://aimath.org/textbooks/approved-textbooks/trench-de/)
 
 Traditional Books of Interest:
 
