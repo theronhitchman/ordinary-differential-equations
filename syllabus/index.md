@@ -50,6 +50,36 @@ one chance for revision in a time frame negotiated with the instructor.
 * Tenth Week of Class: Exam 2
 * Final Exam Week: Final Exam and Final Project
 
+### Resources:
+
+There are so many books on differential equations, it is hard to know where to begin.
+It seems impossible to know all of the possible texts, but there are several which
+seem worth sharing.
+
+Online, Free Texts:
+
+  * An in-progress, free, online book: [http://faculty.sfasu.edu/judsontw/ode/html/index.html]()
+  * Another free online book, available as a PDF from [http://aimath.org/textbooks/approved-textbooks/trench-de/]()
+
+Traditional Books of Interest:
+
+  * Simmons, Differential Equations with Applications and Historical Notes, 2nd Ed.
+  * Boyce and DiPrima, Elementary Differential Equations
+  * Polking, Boggess and Arnold, Ordinary Differential Equations with Boundary Value Problems
+
+Books that also include more of a dynamical point of view
+
+  * Strogatz, Nonlinear Dynamics and Chaos
+  * Hirsch, Smale, and Devaney, Differential Equations, Dynamical Systems, and an
+  Introduction to Chaos
+
+An advanced book on the traditional material, beloved by mathematicians, but pretty hard
+
+  * Arnol'd, Ordinary Differential Equations
+
+And One for the Graduate Students: All Theory, No Exercises
+
+  * Hurewicz, Lectures on Ordinary Differential Equations  
 
 ### Student Academic Accommodations
 
