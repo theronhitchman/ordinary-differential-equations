@@ -14,7 +14,7 @@ So I showed you how I did a "least squared error" fitting for one of the basic m
 [The SageMathCloud worksheet I used is here.](https://cloud.sagemath.com/projects/36700d99-c2a8-4515-86e5-c925d1af1355/files/Differential%20Equations%20Stuff/Sublimation%20Project/Submlimation-Day2-Hitchman.sagews)
 
 This is the direct approach, where one computes the sum of the squared errors
-\\[ \Sum (\text{model predicted} - \text{data})^2 \\]
+\\[ \sum (\text{model predicted} - \text{data})^2 \\]
 and tries to minimize it.
 
 By the way, we saw that trying to validate my \\(r=0\\) model with the second set of
@@ -24,7 +24,7 @@ look good for _both_ sets of data. It didn't, so we need something better.
 We talked through ideas about how to set up a model that would use the idea that
 \\(m'(t)\\) should depend mostly upon the surface area. A little dimensional analysis
 led us to choosing \\(r=2/3\\) and hence this model:
-\\[ m'(t) = -k\left \{ m(t) \right\}^{2/3} \\]
+\\[ m'(t) = -k\left \\{ m(t) \right\\}^{2/3} \\]
 Please add this to the list of models you wish to fit to the data.
 
 Then we started to look into trying to fit both \\( r \\) and \\(k\\) at the same
