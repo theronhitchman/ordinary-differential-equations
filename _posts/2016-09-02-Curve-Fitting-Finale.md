@@ -19,7 +19,7 @@ view of linear algebra. In the middle of all of that, we saw some really cool st
 
 We computed a silly example to show things really work in practice.
 
-<strong>Edit:</strong> [The worksheet I made in class today is here.](https://cloud.sagemath.com/projects/36700d99-c2a8-4515-86e5-c925d1af1355/files/2016-09-02-142940.sagews)
+<strong>Edit:</strong> [The worksheet I made in class today is here.](https://cloud.sagemath.com/projects/36700d99-c2a8-4515-86e5-c925d1af1355/files/Differential%20Equations%20Stuff/linear_regression.sagews)
 
 ### For Tuesday
 
