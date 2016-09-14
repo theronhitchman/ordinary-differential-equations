@@ -16,7 +16,7 @@ That plot should be a place to start our real analysis.
 I also made an outline of the semester on the chalkboard while you were working.
 Here are my pictures.
 
-<img src="{{site.baseurl}}/images/Outline1.jpg" width="90%"></img>
-<img src="{{site.baseurl}}/images/Outline2.jpg" width="90%"></img>
-<img src="{{site.baseurl}}/images/Outline3.jpg" width="90%"></img>
-<img src="{{site.baseurl}}/images/Outline4.jpg" width="90%"></img>
+<img src="{{site.baseurl}}/images/Outline1.jpg" width="90%">
+<img src="{{site.baseurl}}/images/Outline2.jpg" width="90%">
+<img src="{{site.baseurl}}/images/Outline3.jpg" width="90%">
+<img src="{{site.baseurl}}/images/Outline4.jpg" width="90%">
