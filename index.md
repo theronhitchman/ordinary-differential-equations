@@ -19,10 +19,11 @@ title:  UNI Math 3425 <br class="visible-xs" /><i>Ordinary Differential Equation
 	<div class="post">
 		<h3 class="title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 		<p class="meta">Date: {{ post.date }}</p>
-		<div class="entry">
+<!--		<div class="entry">
 			{{ post.content | truncatewords: 25}}
 		</div>
 	</div>
+-->
     {% endfor %}
   </div>
 </div>
@@ -30,5 +31,3 @@ title:  UNI Math 3425 <br class="visible-xs" /><i>Ordinary Differential Equation
 <div class="row visible-xs visible-sm">
  <p><br /></p>
 </div>
-
-
